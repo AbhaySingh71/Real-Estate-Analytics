@@ -3,7 +3,7 @@
 
 
 ## 📌 Project Overview  
-The **Gurugram Real Estate Analytics Project** is a **comprehensive data-driven solution** designed to analyze, predict, and recommend real estate properties in Gurugram. This project leverages advanced **machine learning, data visualization, and optimization techniques** to provide actionable insights into property prices and trends.  
+The **Real Estate Analytics Project** is a **comprehensive data-driven solution** designed to analyze, predict, and recommend real estate properties in Gurugram. This project leverages advanced **machine learning, data visualization, and optimization techniques** to provide actionable insights into property prices and trends.  
 
 ### 🔹 Core Modules:  
 - **Prediction**: Forecasting property prices using historical data and machine learning models.  
