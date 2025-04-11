@@ -1,4 +1,4 @@
-# Gurugram Real Estate Analytics 🏡📊  
+# Real Estate Analytics 🏡📊  
 ![DALL·E 2025-02-02 15 37 52 - A simple and professional wide banner image with a clean blue theme  The background is minimalistic with subtle gradients or a soft abstract pattern  ](https://github.com/user-attachments/assets/30fcb73c-ec3c-4cfb-a855-7b86f6f07b71)
 
 
